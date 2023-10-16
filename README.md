@@ -14,7 +14,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kalanadidulanga&label=Profile%20views&color=0e75b6&style=flat" alt="kalanadidulanga" /> </p>
 
-- 👨‍💻 All of my projects are available at [kalana.cloud](kalana.cloud)
+- :school: I am a `Junior` at [Java Institute](https://www.javainstitute.edu.lk/) at [BIRMINGHAM CITY University](https://www.bcu.ac.uk/).
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :student: I’m currently learning `Full Stack Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :boom: You can visit [MY WEBSITE](https://kalana.cloud).
 
 - 📫 How to reach me **kalanadidulanga2005@gmail.com**
 
@@ -25,9 +30,12 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/kalana didulanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalana didulanga" height="30" width="40" /></a>
-<a href="https://fb.com/kalana didulanga koralegedara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kalana didulanga koralegedara" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@kalanacoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kalanacoder" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kalana-didulanga-176b8a28b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalana didulanga" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100072829954538" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kalana didulanga koralegedara" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@kalanacoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kalanacoder" height="30" width="40" /></a>
+  <a href="https://twitter.com/KalanaDidulanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="KalanaDidulanga" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/22749633/kalana-didulanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Kalana Didulanga" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/kalanakoralegedara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kalana Didulanga Koralegedara" height="30" width="40" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
