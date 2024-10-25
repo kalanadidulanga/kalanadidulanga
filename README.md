@@ -21,9 +21,9 @@
 - :nerd_face: Always `learning new things`.
 - :boom: You can visit [MY WEBSITE](https://kalana.cloud).
 
-- 📫 How to reach me **kalanadidulanga2005@gmail.com**
+- 📫 How to reach me **dev.kalanadidulanga@gmail.com**
 
-- ⚡ Fun fact **kalanaCoder**
+- ⚡ Fun fact **KayD**
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
