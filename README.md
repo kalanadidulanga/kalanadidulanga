@@ -1,92 +1,44 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# Hi there! I'm Kalana Didulanga (KayD) 👋
 
-<h1 align="center">Hi 👋, I'm Kalana Didulanga</h1>
-<h3 align="center">🚀 Full Stack Software Engineer | Building Seamless & Scalable Digital Experiences</h3>
+### Full Stack Software Engineer | Building Scalable Digital Solutions
+Experienced in crafting seamless user experiences and robust backend architectures. Passionate about modern web technologies and building impactful products.
 
-<p align="center">
-  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="150px">
+---
+
+### 🚀 Professional Overview
+- 🎓 Final Year Undergraduate at **Birmingham City University** (via Java Institute).
+- 🛠️ Expertise in **Laravel, React, and Micro-frontend** architectures.
+- 💼 Founder & Developer of **KayDrix** — an NFC digital business card solution.
+- ⚡ Focus: Clean code, scalable performance, and innovative UI/UX.
+
+---
+
+### 🛠️ Languages & Technologies
+
+**Frontend & Design**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**Backend & Database**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools & OS**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
+### 📊 GitHub Analytics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalanadidulanga&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanadidulanga&layout=compact&theme=transparent&hide_border=true&title_color=007ACC" height="150" />
 </p>
 
 ---
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=kalanadidulanga&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/kalana-didulanga-176b8a28b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dev.kalanadidulanga@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://kalanadidulanga.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
 </p>
 
-### 👨‍💻 About Me  
-
-- 🎓 Currently pursuing my degree at [Java Institute](https://www.javainstitute.edu.lk/) in affiliation with [Birmingham City University](https://www.bcu.ac.uk/).  
-- 💡 Passionate about turning ideas into scalable software solutions.  
-- 🌐 Experienced in **Full Stack Development**, from frontend design to backend architecture.  
-- 🧠 Always learning — exploring AI, cloud solutions, and modern frameworks.  
-- 💬 Open for collaboration on innovative and impactful projects.  
-- 🌎 Visit my portfolio: [kalanadidulanga.com](https://kalanadidulanga.com)  
-- 📫 Reach me at: **dev.kalanadidulanga@gmail.com**  
-- ⚡ Fun fact: People call me **KayD** 😎  
-
----
-
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-</div>
-
----
-
-### 🤝 Connect with Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kalana-didulanga-176b8a28b" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100072829954538" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/></a>
-  <a href="https://www.youtube.com/@kalanacoder" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/></a>
-  <a href="https://twitter.com/KalanaDidulanga" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a>
-  <a href="https://stackoverflow.com/users/22749633/kalana-didulanga" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40"/></a>
-  <a href="https://www.instagram.com/kalanakoralegedara" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
-</p>
-
----
-
-### 🧰 Languages & Tools  
-
-<p align="center"> 
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-  <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
-</p>
-
----
-
-### ⚙️ GitHub Analytics  
-
-<p align="center">
-  <a href="https://github.com/kalanadidulanga">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kalanadidulanga&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kalanadidulanga&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<p align="center"> 
-  <b>“Code. Create. Inspire.”</b>  
-</p>
-
----
-
-**Last Updated:** 07/10/2025  
-**Credits:** [Kalana Didulanga (KayD)](https://github.com/kalanadidulanga)
+<p align="center"><i>"Code. Create. Inspire."</i></p>
