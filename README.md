@@ -48,7 +48,7 @@ I am a Full Stack Software Engineer with expertise across multiple ecosystems. F
 ## 📊 GitHub Analytics
 
 <!-- Replace YOUR-VERCEL-APP with your deployed github-readme-stats instance -->
-<p align="center">
+<p align="left">
   <img
     src="https://github-readme-stats-liard-phi-57.vercel.app/api?username=kalanadidulanga&show_icons=true&theme=algolia&hide_border=true&cache_seconds=86400"
     height="150"
