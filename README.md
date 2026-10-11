@@ -1,76 +1,79 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Kalana Didulanga Koralegedara (KayD). I build software that runs real businesses." src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.kalanadidulanga.com/github/banner-dark.svg">
+  <img alt="Kalana Didulanga Koralegedara (KayD). I build software that runs real businesses." src="https://www.kalanadidulanga.com/github/banner-light.svg" width="100%">
 </picture>
 
-<p>
-  <a href="https://www.kalanadidulanga.com"><b>kalanadidulanga.com</b></a> ·
-  <a href="https://www.kalanadidulanga.com/work">Work</a> ·
-  <a href="https://www.linkedin.com/in/kalana-didulanga/">LinkedIn</a> ·
-  <a href="mailto:dev.kalanadidulanga@gmail.com">Email</a> ·
-  <a href="https://www.instagram.com/i_m_kayd">Instagram</a>
-</p>
+<div align="center">
 
-I'm Kalana, a full stack software engineer from Sri Lanka. For about three years I've built the systems businesses run on: operations platforms and CRMs, ERPs and point of sale, learning systems, hotel software, mobile apps and Windows tools. I take them from the database to the last pixel, and I lead the developers who build them with me.
+<img alt="Software Engineer at TwinCoreTech. Project Manager at C-Lento. Web, mobile and desktop software. POS and ERP for real businesses. Freelancing since 2023." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=10B981&center=true&vCenter=true&width=720&lines=Software+Engineer+at+TwinCoreTech;Project+Manager+at+C-Lento;Web%2C+mobile+and+desktop+software;POS+and+ERP+for+real+businesses;Freelancing+since+2023">
 
-```ts
-const kalana = {
-  now: [
-    "Software Engineer @ TwinCoreTech Ltd",
-    "Project Manager & Software Engineer @ C-Lento Software Company",
-  ],
-  freelance: true, // since 2023
-  studying: "Final year, Birmingham City University (via Java Institute)",
-  ships: ["web platforms", "mobile apps", "Windows software", "POS systems"],
-};
-```
+<a href="https://github.com/kalanadidulanga"><img alt="Profile views" src="https://hits.sh/github.com/kalanadidulanga.svg?style=flat-square&label=PROFILE%20VIEWS&color=10b981&extraCount=1028"></a> <a href="https://github.com/kalanadidulanga?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/kalanadidulanga?label=FOLLOWERS&style=flat-square&color=10b981"></a> <a href="https://www.kalanadidulanga.com"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-kalanadidulanga.com-10b981?style=flat-square"></a>
 
-## What I build
+<img alt="Software Engineer at TwinCoreTech" src="https://img.shields.io/badge/TwinCoreTech-Software%20Engineer-047857?style=flat-square"> <img alt="Project Manager and Software Engineer at C-Lento" src="https://img.shields.io/badge/C--Lento-Project%20Manager%20%26%20Engineer-059669?style=flat-square"> <img alt="Freelancing since 2023" src="https://img.shields.io/badge/Freelance-since%202023-10b981?style=flat-square"> <img alt="Birmingham City University" src="https://img.shields.io/badge/Birmingham%20City%20University-final%20year-34d399?style=flat-square">
 
-| Service | What that means |
-| --- | --- |
-| **Web platforms and SaaS** | Operations systems, CRMs, LMSs and dashboards with roles and real users. Next.js, ASP.NET, Supabase. |
-| **ERP and point of sale** | Inventory and POS for shops and restaurants, in the cloud or offline-first, installed on site. |
-| **Mobile apps** | iOS and Android with React Native, Expo and Flutter, on the same backend as the web app. |
-| **Windows software** | Desktop apps in .NET and C#, Rust and Tauri, and Electron. |
-| **Websites and stores** | Hotel sites with live booking, headless Shopify, custom e-commerce. |
-| **AI integration** | Chat, search and automation with large language models, in new or existing products. |
-| **Architecture** | Microservices and micro-frontends, on AWS and GCP. |
-
-## Selected work
-
-| Project | What it is | Built with |
-| --- | --- | --- |
-| [**Uniguru Operations Platform**](https://www.kalanadidulanga.com/work/operations-crm-platform) | Operations and CRM platform for a UK study-abroad consultancy: leads, admissions, partners, staff and compliance in one system. | Next.js, Supabase, PostgreSQL |
-| [**Hyda ERP**](https://www.kalanadidulanga.com/work/cloud-erp-pos) | Multi-tenant cloud ERP and point of sale for retail. I lead it as project manager and full stack developer. | Go, React, PostgreSQL, Redis |
-| [**Hotel Management System**](https://www.kalanadidulanga.com/work/hotel-management-system) | Reservations, front office, restaurant and bar, HR and double-entry accounting. Team-built and live at several hotels; I'm the largest contributor. | Next.js, Prisma, MySQL, Socket.io |
-| [**Langford College LMS**](https://www.kalanadidulanga.com/work/college-lms) | A learning system with a regulated assessment and certification chain. Built by a developer on my team, under my lead. | Next.js, Supabase |
-| [**Uniguru Mobile App**](https://www.kalanadidulanga.com/work/student-partner-mobile-app) | Keeps students and partner agents up to date from the operations platform. | React Native, Expo |
-| [**Kendara**](https://kendara.kalanadidulanga.com) | Builds a Vedic birth chart from birth details or a photo of a kendaraya, and writes a reading in Sinhala, English or Tamil. | Next.js, Vercel AI SDK |
-| [**ZeroPos**](https://www.kalanadidulanga.com/work/zeropos) | Offline-first Windows point of sale that a friend and I build and install at retail shops. | C#, .NET, SQLite |
-| [**Project Mouse**](https://github.com/kalanadidulanga/project-mouse) | A tray app that keeps a Windows PC awake only while a rule says so. | Rust, Tauri, React |
-| [**Kings Town Hotel**](https://kingstownhotel.com) · [**Salubrious Resort**](https://salubriousresort.com) | Hotel websites with live room availability, online booking and an admin. | React, GSAP |
-
-Every project, with its stack, is on [kalanadidulanga.com/work](https://www.kalanadidulanga.com/work).
-
-## Stack
-
-<p>
-  <img alt="TypeScript, JavaScript, C#, Java, Go, Rust, PHP, Python" src="https://skillicons.dev/icons?i=ts,js,cs,java,go,rust,php,py&perline=8"><br>
-  <img alt="React, Next.js, Angular, Tailwind CSS, Vite, Flutter, Tauri, Electron" src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,vite,flutter,tauri,electron&perline=8"><br>
-  <img alt="Node.js, NestJS, Express, .NET, Laravel, GraphQL, Prisma, Supabase" src="https://skillicons.dev/icons?i=nodejs,nestjs,express,dotnet,laravel,graphql,prisma,supabase&perline=8"><br>
-  <img alt="PostgreSQL, MySQL, MongoDB, Redis, Docker, AWS, Google Cloud, Linux" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,aws,gcp,linux&perline=8">
-</p>
-
-## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalanadidulanga/kalanadidulanga/output/github-snake-dark.svg">
-  <img alt="A snake eating the last year of contributions" src="https://raw.githubusercontent.com/kalanadidulanga/kalanadidulanga/output/github-snake.svg" width="100%">
-</picture>
-
-Much of my work lives in company and client repositories, so this graph shows only part of it.
+</div>
 
 ---
 
-Building something? [Start a project](https://www.kalanadidulanga.com/contact) or write to [dev.kalanadidulanga@gmail.com](mailto:dev.kalanadidulanga@gmail.com).
+### 👋 About me
+
+I'm **Kalana Didulanga Koralegedara**, KayD online. I'm a full stack engineer with three years of experience: a Software Engineer at **TwinCoreTech Ltd**, a Project Manager and Software Engineer at **C-Lento Software Company**, and a freelancer since 2023.
+
+I build web platforms with Next.js and Supabase, mobile apps with Expo and Flutter, Windows software with Rust, Tauri, Electron and .NET, and APIs in Node.js, ASP.NET and Go. I also lead the developers who build for my clients.
+
+- 🔭 Shipping ERP and POS systems, booking platforms and company websites
+- 🧱 Microservices and micro-frontends on AWS and GCP
+- 🎓 Final year at **Birmingham City University**, via Java Institute
+- 📫 Got a project? [Let's talk](https://www.kalanadidulanga.com/contact)
+
+---
+
+### 🚀 What I build
+
+<div align="center">
+
+<img alt="Custom web apps" src="https://img.shields.io/badge/Custom%20web%20apps-047857?style=for-the-badge"> <img alt="Websites" src="https://img.shields.io/badge/Websites-059669?style=for-the-badge"> <img alt="Mobile apps" src="https://img.shields.io/badge/Mobile%20apps-10b981?style=for-the-badge"> <img alt="POS systems" src="https://img.shields.io/badge/POS%20systems-047857?style=for-the-badge"> <img alt="Software applications" src="https://img.shields.io/badge/Software%20applications-059669?style=for-the-badge"> <img alt="E-commerce" src="https://img.shields.io/badge/E--commerce-10b981?style=for-the-badge"> <img alt="AI integration" src="https://img.shields.io/badge/AI%20integration-047857?style=for-the-badge">
+
+</div>
+
+---
+
+### 🧰 Tech stack
+
+<div align="center">
+
+| | |
+| :-- | :-- |
+| **Languages** | <img alt="TypeScript, JavaScript, C#, Java, Go, Rust, PHP, Python, C++" src="https://skillicons.dev/icons?i=ts,js,cs,java,go,rust,php,py,cpp"> |
+| **Frontend** | <img alt="React, Next.js, Angular, Tailwind CSS, Redux, Material UI, Bootstrap" src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,redux,materialui,bootstrap"> |
+| **Backend** | <img alt="Node.js, Express, NestJS, .NET, Laravel, GraphQL" src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,laravel,graphql"> |
+| **Mobile and desktop** | <img alt="Flutter, Android, Tauri, Electron" src="https://skillicons.dev/icons?i=flutter,androidstudio,tauri,electron"> &nbsp;+ React Native, Expo |
+| **Data** | <img alt="PostgreSQL, MySQL, SQLite, MongoDB, Redis, Prisma, Supabase" src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,prisma,supabase"> |
+| **Cloud** | <img alt="AWS, Google Cloud, Docker" src="https://skillicons.dev/icons?i=aws,gcp,docker"> |
+| **Architecture** | Microservices · Micro-frontends · Security |
+
+</div>
+
+---
+
+### 📊 GitHub stats
+
+<div align="center">
+
+<img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=kalanadidulanga&include_all_commits=true&hide=issues,contribs&custom_title=KayD%20on%20GitHub&line_height=30&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=10b981&icon_color=10b981&text_color=7d8590"> <img alt="GitHub streak" height="165" src="https://streak-stats.demolab.com?user=kalanadidulanga&hide_border=true&background=00000000&ring=10b981&fire=10b981&currStreakNum=10b981&sideNums=10b981&currStreakLabel=10b981&sideLabels=7d8590&dates=7d8590&stroke=7d859055">
+
+</div>
+
+---
+
+### 🤝 Connect
+
+<div align="center">
+
+<a href="https://www.kalanadidulanga.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-10b981?style=for-the-badge&logo=googlechrome&logoColor=white"></a> <a href="https://www.linkedin.com/in/kalana-didulanga/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:dev.kalanadidulanga@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.instagram.com/i_m_kayd"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+<br><br>
+
+<img alt="Thanks for stopping by. Got a project? Let's build it." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=7D8590&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by;Got+a+project%3F+Let's+build+it">
+
+</div>
