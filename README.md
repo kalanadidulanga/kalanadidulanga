@@ -60,7 +60,7 @@ I build web platforms with Next.js and Supabase, mobile apps with Expo and Flutt
 
 <div align="center">
 
-<img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=kalanadidulanga&include_all_commits=true&hide=issues,contribs&custom_title=KayD%20on%20GitHub&line_height=30&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=10b981&icon_color=10b981&text_color=7d8590"> <img alt="GitHub streak" height="165" src="https://streak-stats.demolab.com?user=kalanadidulanga&hide_border=true&background=00000000&ring=10b981&fire=10b981&currStreakNum=10b981&sideNums=10b981&currStreakLabel=10b981&sideLabels=7d8590&dates=7d8590&stroke=7d859055">
+<img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=kalanadidulanga&include_all_commits=true&hide=issues,contribs&custom_title=KayD%20on%20GitHub&line_height=30&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=10b981&icon_color=10b981&text_color=7d8590"> <img alt="GitHub streak" height="165" src="https://streak-stats.demolab.com?user=kalanadidulanga&timezone=Asia/Colombo&hide_border=true&background=00000000&ring=10b981&fire=10b981&currStreakNum=10b981&sideNums=10b981&currStreakLabel=10b981&sideLabels=7d8590&dates=7d8590&stroke=7d859055">
 
 </div>
 
